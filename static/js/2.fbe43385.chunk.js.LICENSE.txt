@@ -5,23 +5,27 @@ object-assign
 */
 
 /*!
+        
+        JSZip v3.5.0 - A JavaScript class for generating and reading zip files
+        <http://stuartk.com/jszip>
+        
+        (c) 2009-2016 Stuart Knightley <stuart [at] stuartk.com>
+        Dual licenced under the MIT license or GPLv3. See https://raw.github.com/Stuk/jszip/master/LICENSE.markdown.
+        
+        JSZip uses the library pako released under the MIT license :
+        https://github.com/nodeca/pako/blob/master/LICENSE
+        */
+
+/*!
  * The buffer module from node.js, for the browser.
  *
  * @author   Feross Aboukhadijeh <http://feross.org>
  * @license  MIT
  */
 
-/*!
- * Toastify js 1.9.3
- * https://github.com/apvarun/toastify-js
- * @license MIT licensed
- *
- * Copyright (C) 2018 Varun A P
- */
-
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
-/** @license React v0.20.1
+/** @license React v0.20.2
  * scheduler.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -57,7 +61,7 @@ object-assign
  * LICENSE file in the root directory of this source tree.
  */
 
-/** @license React v17.0.1
+/** @license React v17.0.2
  * react-dom.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
